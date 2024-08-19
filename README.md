@@ -1,4 +1,4 @@
-To run the program
+**Running the program**
 
 1) Open the script **RoadSegmentationAlgorithm.py** in (preferably) Spyder 
 
@@ -8,8 +8,6 @@ all the script, **images/** directory, **output/** directory, **masks/** directo
 3) Click run
 
 4) Two new directories with 30 images each will appear in the **output/** directory
-
-
 
 
 **Program overview**
@@ -24,7 +22,7 @@ Compared to a set of ground truth masks (in the **masks/** directory) the algori
 
 
 
-**Example input: **
+**Example input:**
 ![0](https://github.com/user-attachments/assets/e63f7279-31b0-456a-b900-70abf544dc9f)
 
 **Example output:**
